@@ -1,0 +1,11 @@
+* {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    box-sizing: border-box;
+}
+
+.que_input{
+    border: 1px solid darkcyan;
+    margin: 0;
+}
